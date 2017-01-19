@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SWSimpleAutoLayoutScrollView
 //
-//  Created by Don Magnusson on 12/2/16.
+//  Created by DonMag on 12/2/16.
 //  Copyright © 2016 DonMag. All rights reserved.
 //
 
